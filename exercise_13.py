@@ -1,6 +1,6 @@
 # here we import the argv module
 
-# run this script by typing python exercise_13.py first 2nd 3rd
+# run this script by typing python exercise_13.py first 2nd 3rd 
 
 from sys import argv
 
